@@ -1,0 +1,1 @@
+"ACSS - Automated Computer Shopping System" folder contains the web based project. Please run the ACSS.html file.
